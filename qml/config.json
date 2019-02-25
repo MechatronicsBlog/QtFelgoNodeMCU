@@ -1,0 +1,8 @@
+{
+    "title": "NodeMCU Control",
+    "identifier": "com.yourcompany.wizardEVAP.QtFelgoNodeMCU",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
