@@ -1,7 +1,7 @@
 # QtFelgoNodeMCU
 ESP8266 NodeMCU remote control from custom apps for Desktop, iOS and Android
 
-Tutorial: https://mechatronicsblog.com/getting-started-with-esp8266-nodemcu-remote-control-from-custom-apps-for-desktop,-ios-and-android
+Tutorial: https://mechatronicsblog.com/getting-started-with-esp8266-nodemcu-remote-control-from-custom-apps-on-desktop-ios-and-android/
 
 App in action: https://youtu.be/KU45HyZGnMc
 
